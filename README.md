@@ -5,7 +5,7 @@
 Компиляция:
 <br><br>
 g++ -DUNICODE -D_UNICODE -DWIN32 -D_WINDOWS -D_WIN32_WINNT=0x0600 -o 1.exe 1.cpp -lshell32 -lole32 -lws2_32 -mwindows
-<br><br>
+<br>
 1.exe
-<br><br>
+<br>
 PAUSE
